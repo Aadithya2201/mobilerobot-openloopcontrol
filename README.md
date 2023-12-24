@@ -84,10 +84,12 @@ if _name_ == '_main_':
     print("Stopped video streaming.....")
 
     ep_robot.close()
+```
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![WhatsApp Image 2023-12-24 at 14 15 49_0dd32a51](https://github.com/Aadithya2201/mobilerobot-openloopcontrol/assets/145917810/9c833ac4-dc89-490d-adde-1ada3fc7acfb)
+
 
 Insert image here
 
